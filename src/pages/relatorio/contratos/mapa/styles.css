@@ -1,0 +1,66 @@
+.marker {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+
+.popup {
+    min-width: 250px;
+    max-width: 250px
+}
+
+.div-contrato {
+    color: white;
+    text-align: right;
+    font-weight: bold
+}
+
+.estatisticas-red {
+    color: red;
+}
+
+.estatisticas-blue {
+    color: #2185D0;
+}
+
+.estatisticas-green {
+    color: green;
+}
+
+.estatisticas {
+    text-align: center
+}
+
+.estatisticas .label {
+    font-weight: bold;
+    font-size: 10px;
+}
+
+.estatisticas .value {
+    font-size: 24px;
+}
+
+.estatisticas .value .sub {
+    font-size: 16px
+}
+
+.sub-titulo {
+    font-size: 16px;
+    font-weight: bold
+}
+
+.label-marker .label {
+    color: #333
+}
+.label-marker .plano{
+    border-top: 1px solid #666666;
+}
+
+.label-marker .plano .label {
+    color: #333
+}
+
+.label-marker .plano .value .sub {
+    font-size: 10px
+}
+
